@@ -1,2 +1,1 @@
-# TicTacToe
-Game
+Game # TicTacToe

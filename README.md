@@ -1,4 +1,5 @@
 <h1>TicTacToe </h1>
+<h2><bl>features</bl><h2>
 <h2><strong>Technologies Used</strong></h2>
 <P>HTML- Stucture of the game.
 <br>

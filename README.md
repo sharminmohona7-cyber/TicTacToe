@@ -1,6 +1,7 @@
 <h1>TicTacToe </h1>
 <h2>Features<h2>
- <P> • 3x3 Grid: Nine clickable squares for placing marks.
+ <P> 
+  • 3x3 Grid: Nine clickable squares for placing marks.
 <br>
   • Turn System: Alternates automatically between Player X and Player O.
 <br>

@@ -1,5 +1,10 @@
 <h1>TicTacToe </h1>
 <h2>Features<h2>
+ <style>
+  h1,h2,th {
+   fornt-weight:normal;
+   }
+ </style>
  <P> 
   • 3x3 Grid: Nine clickable squares for placing marks.
 <br>

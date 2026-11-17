@@ -1,2 +1,2 @@
 <h1>TicTacToe </h1>
-<h3><strong>features</strong></h3>
+<h2><strong>features</strong></h2>
